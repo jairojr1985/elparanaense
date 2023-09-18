@@ -78,13 +78,13 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url("../cap/imagens/img01.jpg");
+    background-image: url("../elparanaense/imagens/img01.jpg");
     background-position: center;
     background-size: cover;
 }
 
 section#img03{
-    background-image: url("../cap/imagens/img03.jpg");
+    background-image: url("../elparanaense/imagens/img03.jpg");
     background-size: cover;
 }
 
